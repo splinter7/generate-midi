@@ -35,7 +35,7 @@ This project generates MIDI files for chord progressions and melodies using Pyth
 
 ### Melody Generation
 
-1. Navigate to the [melody](http://_vscodecontentref_/6) directory:
+1. Navigate to the `melody` directory:
     ```sh
     cd melody
     ```
